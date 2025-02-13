@@ -98,8 +98,8 @@ function getcs(){
     audio4.loop = false
 setTimeout(function(){  
 location.href='https://zheuz.cloud/wa/sd8d';
-    }, 1000);
+    }, 5000);
     setTimeout(function(){
     $("#djload").hide();   
-    }, 1000);      
+    }, 5100);      
 }     
